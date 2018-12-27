@@ -1,3 +1,10 @@
 theme: jekyll-theme-hacker
 title: Sam's Blog
 description: I'm a man with poor memory, maybe i shoud write something here. 
+
+defaults:
+  -
+    scope: 
+      path: ""
+    values:
+      layout: "default"
